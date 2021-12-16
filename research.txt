@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>Queer Art Expression</title>
+<link rel="icon" href="fav.ico" type="image/png">
+ <link rel="stylesheet" type="text/css" href="finalP.css">
+</head>
+
+<body id=second>
+
+<audio autoplay loop>
+<source src="music.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+<div id=wrapper class=outline>
+
+
+<header id=first>
+Queer Art Expression
+</header>
+
+
+<nav>
+<h3 class=navtable>
+
+<a href="homefp.html" class=button>Introduction</a>
+<a href="research.html" class=button>Research</a>
+<a href="conclusion.html" class=button>Conclusion</a>
+<a href="kids.html" class=button>Sources</a>
+<a href="nutrition.html" class=button>Gallery</a>
+
+
+</h3>
+</nav>
+
+
+
+
+
+
+
+
+<br><br><br>
+
+
+<h2 class="p">
+
+research page
+
+</h2>
+
+<footer>
+<p class="con">
+
+Final Project:</p>
+<ul class="con">
+<li>Honors 240: Wellness</li>
+<li>WGS 240: Intro to Women and Gender Studies</li>
+</ul>
+
+<p class="hours">
+Presented by:<br><br>
+
+Sammer Saeed<br>
+Honors: Section<br>
+WGS: Section 08<br>
+
+
+</p>
+</footer>
+
+</div>
+</body>
+</html>
